@@ -4,11 +4,11 @@ This project uses PySpark on the Databricks platform to predict Paris real estat
 
 The main steps are outlined below:
 
-- Part 1 : Problem Definition, Kaggle Competition selected and why
-- Part 2 : Data Exploration, Feature Engineering and Data Preparation - Data exploration is carried out using SQL querries and their associated graphs
-- Part 3:  Model creation - Linear Regression, Decision Tree Regressor, Random Forest Regressor and Gradient Boosted Tree Regressor models were built ... cross val + hyperparam tunning
-- Part 4: Model Evaluation and Explanations of Decision
-- Part 5: Discussion of work completed, competition outcomes, and highlighting features of Spark used
+- **Part 1 : Problem Definition, Kaggle Competition selected and why**
+- **Part 2 : Data Exploration, Feature Engineering and Data Preparation** - Data exploration is carried out using SQL querries and their associated graphs
+- **Part 3:  Model creation** - Linear Regression, Decision Tree Regressor, Random Forest Regressor and Gradient Boosted Tree Regressor models were built ... cross val + hyperparam tunning
+- **Part 4: Model Evaluation and Explanations of Decision**
+- **Part 5: Discussion of work completed, competition outcomes, and highlighting features of Spark used**
 
 
   
