@@ -2,6 +2,8 @@
 
 This project uses PySpark on the Databricks platform to predict Paris real estate prices on the [Paris Housing Price Prediction](https://www.kaggle.com/datasets/mssmartypants/paris-housing-price-prediction) Kaggle dataset.
 
+This project was completed as part of the course Master of Science in Computer Science (Data Science) at TU Dublin, Ireland.
+
 The main steps are outlined below:
 
 - **Part 1 : Problem Definition, Kaggle Competition selected and why**
